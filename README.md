@@ -21,13 +21,13 @@ https://cs.stanford.edu/people/karpathy/convnetjs/
 ## Paginas Web 
 https://www.w3schools.com/ai/ai_javascript.asp
 
-### roadmap
+### Roadmap
 https://roadmap.sh/ai-data-scientist
 
-### deep learning 
+### Deep learning 
 https://www.ibm.com/mx-es/topics/neural-networks#:~:text=Una%20red%20neuronal%20es%20un,opciones%20y%20llegar%20a%20conclusiones.
 
-### preguntas sobre ML 
+### Preguntas sobre ML 
 https://www.interviewbit.com/artificial-intelligence-interview-questions/
 
 ### Herramientas
@@ -35,7 +35,7 @@ https://teachablemachine.withgoogle.com/train
 
 https://magenta.tensorflow.org/
 
-### codigo abierto para hacer chatbots 
+### Codigo abierto para hacer chatbots 
 https://huggingface.co/
 
 ## Cursos
